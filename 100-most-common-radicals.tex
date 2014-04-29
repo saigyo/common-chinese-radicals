@@ -1,0 +1,37 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX TS-program = XeLaTeX
+\documentclass[fontsize=12pt,
+			 parskip=full,
+			 a4paper,
+			 landscape,
+			 pagesize,
+			 DIV=16]{scrreprt}
+
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{xeCJK}
+\usepackage{zhnumber}
+\usepackage{array}
+\usepackage{longtable}
+
+\setmainfont{Myriad Pro}
+\setsansfont{Myriad Pro}
+\setCJKmainfont[BoldFont={Kaiti SC Bold}]{Kaiti SC}
+
+\newcounter{number}
+\setcounter{number}{1}
+\newcommand{\nr}{\arabic{number}}
+\newcommand{\nl}{\addtocounter{number}{1}\\}
+
+\renewcommand{\arraystretch}{1.4}
+
+\begin{document}
+\begin{longtable}{|r|>{\large}c|>{\large}c|>{\large}c|p{2.5cm}|p{1.5cm}|>{\large}l|p{7cm}|p{2.5cm}|}
+\hline
+\bfseries Nr.\ & \normalsize\bfseries SC & \normalsize\bfseries TC & \normalsize\bfseries Var.\ & \bfseries Meaning & \bfseries Pinyin & \normalsize\bfseries Examples & \bfseries Comments & \bfseries Colloquial \\ \hline
+\endhead
+\hline
+\endfoot
+\input{100-most-common-radicals.inc}
+\end{longtable}
+\end{document}
