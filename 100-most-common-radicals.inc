@@ -24,7 +24,7 @@
 禾&禾&&grain&(he)&利私季和香&Note similarity with 木, which means tree.&禾木旁\nl
 ⺮&⺮&竹&bamboo&zhu2&笑第简筷算&&竹子头（竹字头）\nl
 虫&虫&&insect&chong2&強独蛇蛋蚊&Even though this radical means insect, it's used for many organisms which aren't insects according to our taxonomy.&虫字旁\nl
-阜&阝{}[]&&mound, dam&(fu4)&防阻陆院陈&Note that there are two radicals which look like this. On the left, it means mound, dam, and on the right, it means city.&双耳刀（左耳刀）\nl
+阜&阝{\kern0pt}[]&&mound, dam&(fu4)&防阻陆院陈&Note that there are two radicals which look like this. On the left, it means mound, dam, and on the right, it means city.&双耳刀（左耳刀）\nl
 大&大&&big, very&da4&天尖因奇美&&大字旁（头）\nl
 广&广&&house on cliff&guang3&店府度座庭&Note similarity with 厂, which means cliff (i.e. without the house).&广字旁\nl
 田&田&&field&tian2&思留略番累&&田字旁\nl
@@ -54,7 +54,7 @@
 子&子&&child, seed&zi3&字学存孩季&&子字旁\nl
 疒&疒&&sickness&(ne4)&病痛疗疯痩&&病字旁\nl
 隹&隹&&(short-tailed) bird&(zhui1)&雀集难雅谁&&隹字旁\nl
-斤&斤&&axe&(jin1)&所新听近析&&斤字旁\nl
+斤&斤&&axe, pound&(jin1)&所新听近析&&斤字旁\nl
 亠&亠&&lid&(tou2)&亡交京&Note similarity with  宀, which means roof, and 冖 which means cover.&点横头\nl
 王&王&玉&jade, king&yu4, wang2&主弄皇理现&This radical is 玉, but when in composition, it looks like 王, king, and is probably more easily remembered like that.&王字旁\nl
 白&白&&white&bai2&的皆皇怕迫&Note similarity with 日, which means sun.&白字旁\nl
@@ -81,7 +81,7 @@
 皮&皮&&skin&pi2&披彼波破疲&&皮字旁\nl
 耳&耳&&ear&er3&取闻职聪联&&耳字旁\nl
 辛&辛&&bitter&xin1&辜辟辣辨辩&&辛字旁\nl
-{}[]阝&{}[]阝&邑&city&(yi4)&那邦部都邮&Note that there are two radicals which look like this. On the left, it means mound, dam, and on the right, it means city.&双耳刀（右耳刀）\nl
+{}[]{\kern0pt}阝&{}[]{\kern0pt}阝&邑&city&(yi4)&那邦部都邮&Note that there are two radicals which look like this. On the left, it means mound, dam, and on the right, it means city.&双耳刀（右耳刀）\nl
 酉&酉&&wine&(you3)&醉酒醒酸尊&&酉字旁\nl
 青&青&&green/blue&qing1&请清情晴猜&&青字旁\nl
 鸟&鳥&&bird&niao3&鸦鸣鸭岛鸡&&鸟字旁\nl
