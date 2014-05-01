@@ -7,22 +7,33 @@
 			 pagesize,
 			 DIV=12]{scrreprt}
 
+\usepackage{xltxtra}
 \usepackage{fontspec}
 \usepackage{xcolor}
 \usepackage{xeCJK}
 \usepackage{zhnumber}
 \usepackage{array}
 \usepackage{longtable}
-\usepackage{url}
+\usepackage{hyperref}
+\usepackage{catchfile}
+\usepackage{collcell}
 
 \setmainfont{Myriad Pro}
 \setsansfont{Myriad Pro}
 \setCJKmainfont[BoldFont={Kaiti SC Bold}]{Kaiti SC}
 
-\newcounter{number}
-\setcounter{number}{1}
-\newcommand{\nr}{\arabic{number}}
-\newcommand{\nl}{\addtocounter{number}{1}\\}
+\newcommand{\nl}{\\}
+
+\newcommand{\rad}[2]{\href{http://www.archchinese.com/chinese_english_dictionary.html?find=#1}{#2}}
+
+\newcommand*{\foo}{}
+
+\newcommand*{\lnk}[1]{%\renewcommand{\foo}{#1}%
+\immediate\write18{echo #1 | perl urlenc.pl -l > #1.dat}%
+\CatchFileDef\encoded{#1.dat}{\endlinechar=-1}%
+\href{http://www.archchinese.com/chinese_english_dictionary.html?find=\encoded}{#1}}
+
+\newcolumntype{Y}{>{\large\collectcell\lnk}c<{\endcollectcell}}
 
 \renewcommand{\arraystretch}{1.4}
 
@@ -39,4 +50,10 @@
 \input{100-most-common-radicals.inc}
 \end{longtable}
 {\em Source:} \url{http://www.hackingchinese.com/kickstart-your-character-learning-with-the-100-most-common-radicals/}
+
+\lnk{亿}
+
+\lnk{人}
+
+
 \end{document}
