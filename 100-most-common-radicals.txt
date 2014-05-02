@@ -8,7 +8,7 @@
 月	月		moon, month	yue4	有服青朝能	This radical is actually two: moon 月 and meat 肉, but in modern Chinese, they look the same in most cases.	月字旁
 木	木		tree	mu4	板根本林来	Note similarity with 禾, which means grain.	木字旁
 氵	氵	水，氺	water	shui3	永泳海洋沙	Note similarity with 冫, which means ice.	水字旁（水），三点水（氵），泰字底水（氺）
-火	火	灬	fire	huo3	灯炎焦然炸		火字旁（火），四点底（灬）
+火	火	灬	fire	huo3	灯炎点然炸		火字旁（火），四点底（灬）
 纟	糹	糸	silk	(mi4)	纪纸累细绩		绞丝旁（纟），独立绞丝（糸）
 艹	艹	艸	grass	cao3	花英苦草茶	Note that when the radical is on top, the traditional variant has four strokes.	草字头（艹）
 讠	訁	言	speech	yan2	说讲识评试		言字旁（讠）
