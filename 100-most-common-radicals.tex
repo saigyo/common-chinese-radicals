@@ -27,7 +27,8 @@
 \newcommand{\lnk}[2]{\href{http://www.archchinese.com/chinese_english_dictionary.html?find=#1}{#2}}
 
 \newcommand*{\clnk}[1]{%
-\immediate\write18{echo #1 | perl urlenc.pl -l > #1.dat}%
+\IfFileExists{./#1.dat}{}{%
+\immediate\write18{echo #1 | perl urlenc.pl -l > #1.dat}}%
 \CatchFileDef\encoded{#1.dat}{\endlinechar=-1}%
 \href{http://www.archchinese.com/chinese_english_dictionary.html?find=\encoded}{#1}}
 
