@@ -45,7 +45,7 @@
 \clnk{彳}&\clnk{彳}&&(small) step&\lnk{chi2}{(chi2)}&\clnk{彼}\clnk{很}\clnk{律}\clnk{微}\clnk{德}&Note similarity to \clnk{亻}, which means {\em human, person}.&双人旁\nl
 \clnk{十}&\clnk{十}&&ten&\lnk{shi2}{shi2}&\clnk{什}\clnk{计}\clnk{古}\clnk{叶}\clnk{早}&&十字旁（头）\nl
 \clnk{工}&\clnk{工}&&work&\lnk{gong1}{gong1}&\clnk{左}\clnk{江}\clnk{红}\clnk{巧}\clnk{功}&&工字旁\nl
-\clnk{方}&\clnk{方}&&square, raft&\lnk{fang1}{fang1}&\clnk{放}\clnk{旅}\clnk{族}\clnk{仿}\clnk{房}&&方字旁\nl
+\clnk{方}&\clnk{方}&&square, raft&\lnk{fang1}{fang1}&\clnk{放}\clnk{旅}\clnk{族}\clnk{仿}\clnk{房}&Note similarity to \clnk{万}, which means {\em ten thousand}.&方字旁\nl
 \clnk{门}&\clnk{門}&&gate&\lnk{men2}{men2}&\clnk{间}\clnk{闲}\clnk{问}\clnk{闭}\clnk{闻}&&门字框\nl
 \clnk{饣}&\clnk{飠}&\clnk{食}&eat, food&\lnk{shi2}{shi2}&\clnk{饭}\clnk{饿}\clnk{饮}\clnk{馆}\clnk{饱}&&食字旁\nl
 \clnk{欠}&\clnk{欠}&&lack, yawn&\lnk{qian4}{qian4}&\clnk{欢}\clnk{欧}\clnk{欲}\clnk{次}\clnk{歌}&&欠字旁\nl
@@ -55,7 +55,7 @@
 \clnk{疒}&\clnk{疒}&&sickness&\lnk{ne4}{(ne4)}&\clnk{病}\clnk{痛}\clnk{疗}\clnk{疯}\clnk{痩}&&病字旁\nl
 \clnk{隹}&\clnk{隹}&&(short-tailed) bird&\lnk{zhui1}{(zhui1)}&\clnk{雀}\clnk{集}\clnk{难}\clnk{雅}\clnk{谁}&&隹字旁\nl
 \clnk{斤}&\clnk{斤}&&axe, pound&\lnk{jin1}{(jin1)}&\clnk{所}\clnk{新}\clnk{听}\clnk{近}\clnk{析}&&斤字旁\nl
-\clnk{亠}&\clnk{亠}&&lid&\lnk{tou2}{(tou2)}&\clnk{亡}\clnk{交}\clnk{京}&Note similarity to \clnk{宀}, which means {\em roof,} and \clnk{冖} which means {\em cover}.&点横头\nl
+\clnk{亠}&\clnk{亠}&&lid&\lnk{tou2}{(tou2)}&\clnk{亡}\clnk{交}\clnk{京}\clnk{产}\clnk{亮}&Note similarity to \clnk{宀}, which means {\em roof,} and \clnk{冖} which means {\em cover}.&点横头\nl
 \clnk{王}&\clnk{王}&\clnk{玉}&jade, king&\lnk{yu4, wang2}{yu4, wang2}&\clnk{主}\clnk{弄}\clnk{皇}\clnk{理}\clnk{现}&This radical is \clnk{玉}, but when in composition, it looks like \clnk{王}, {\em king}, and is probably more easily remembered like that.&王字旁\nl
 \clnk{白}&\clnk{白}&&white&\lnk{bai2}{bai2}&\clnk{的}\clnk{皆}\clnk{皇}\clnk{怕}\clnk{迫}&Note similarity to \clnk{日}, which means {\em sun}.&白字旁\nl
 \clnk{立}&\clnk{立}&&stand, erect&\lnk{li4}{li4}&\clnk{音}\clnk{意}\clnk{端}\clnk{亲}\clnk{位}&&立字旁\nl
@@ -70,7 +70,7 @@
 \clnk{雨}&\clnk{雨}&&rain&\lnk{yu3}{yu3}&\clnk{雷}\clnk{雪}\clnk{霜}\clnk{需}\clnk{露}&&雨字头\nl
 \clnk{囗}&\clnk{囗}&&enclosure&\lnk{wei2}{(wei2)}&\clnk{回}\clnk{国}\clnk{因}\clnk{图}\clnk{团}&Note similarity to \clnk{口}, which does not enclose other components and means {\em mouth}.&国字框\nl
 \clnk{小}&\clnk{小}&\clnk{⺌}&small&\lnk{xiao3}{xiao3}&\clnk{少}\clnk{肖}\clnk{尚}\clnk{尖}\clnk{尘}&&小字旁（头）\nl
-\clnk{戈}&\clnk{戈}&&halberd&\lnk{ge1}{(ge1)}&\clnk{成}\clnk{式}\clnk{战}\clnk{感}\clnk{我}&&戈字旁\nl
+\clnk{戈}&\clnk{戈}&&halberd, spear&\lnk{ge1}{(ge1)}&\clnk{成}\clnk{式}\clnk{战}\clnk{感}\clnk{我}&Note similarity to \clnk{弋}, which means {\em catch, arrest}.&戈字旁\nl
 \clnk{几}&\clnk{几}&&table&\lnk{ji1}{ji1}&\clnk{朵}\clnk{机}\clnk{风}\clnk{凡}\clnk{凤}&&几字旁\nl
 \clnk{舌}&\clnk{舌}&&tongue&\lnk{she2}{she2}&\clnk{乱}\clnk{适}\clnk{话}\clnk{舍}\clnk{活}&&舌字旁\nl
 \clnk{干}&\clnk{干}&&dry&\lnk{gan1}{gan1}&\clnk{平}\clnk{刊}\clnk{汗}\clnk{旱}\clnk{赶}&&干字旁\nl
