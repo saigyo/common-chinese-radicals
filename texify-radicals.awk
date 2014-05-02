@@ -20,6 +20,12 @@ function link(s,   t) {
   gsub("[()]", "", t)
   return "\\lnk{" t "}{" s "}"
 }
+function improve(s) {
+  gsub("{", "{\\em ", s)
+  gsub("\\[", "\\clnk{", s)
+  gsub("\\]", "}", s)
+  return s
+}
    {
-      print clinkeach($1), clinkeach($2), clinkeach($3), $4, link($5), clinkeach($6), $7, $8 "\\nl" 
+      print clinkeach($1), clinkeach($2), clinkeach($3), $4, link($5), clinkeach($6), improve($7), $8 "\\nl" 
    }
