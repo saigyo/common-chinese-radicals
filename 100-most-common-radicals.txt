@@ -55,7 +55,7 @@
 疒	疒		sickness	(ne4)	病痛疗疯痩		病字旁
 隹	隹		(short-tailed) bird	(zhui1)	雀集难雅谁		隹字旁
 斤	斤		axe, pound	(jin1)	所新听近析		斤字旁
-亠	亠		lid	(tou2)	亡交京	Note similarity to [宀], which means {roof,} and [冖] which means {cover}.	点横头
+亠	亠		lid	(tou2)	亡交京产亮	Note similarity to [宀], which means {roof,} and [冖] which means {cover}.	点横头
 王	王	玉	jade, king	yu4, wang2	主弄皇理现	This radical is [玉], but when in composition, it looks like [王], {king}, and is probably more easily remembered like that.	王字旁
 白	白		white	bai2	的皆皇怕迫	Note similarity to [日], which means {sun}.	白字旁
 立	立		stand, erect	li4	音意端亲位		立字旁
@@ -70,7 +70,7 @@
 雨	雨		rain	yu3	雷雪霜需露		雨字头
 囗	囗		enclosure	(wei2)	回国因图团	Note similarity to [口], which does not enclose other components and means {mouth}.	国字框
 小	小	⺌	small	xiao3	少肖尚尖尘		小字旁（头）
-戈	戈		halberd	(ge1)	成式战感我		戈字旁
+戈	戈		halberd, spear	(ge1)	成式战感我	Note similarity to [弋], which means {catch, arrest}.	戈字旁
 几	几		table	ji1	朵机风凡凤		几字旁
 舌	舌		tongue	she2	乱适话舍活		舌字旁
 干	干		dry	gan1	平刊汗旱赶		干字旁
