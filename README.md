@@ -18,4 +18,4 @@ License
 
 The contents of the table (compilation of the radicals, examples and comments) are (C) 2012 Olle Linge.
 
-The scripts and LaTeX macros for typesetting the table are free to take and modify under a CC-BY license.
+The scripts and LaTeX macros for typesetting the table are free to take, modify and redistribute under a CC-BY-SA (creative commons-attribution-share alike) license.
