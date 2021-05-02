@@ -1,0 +1,23 @@
+name: Build PDF document
+on:
+  push:
+    paths: 
+      - '**.tex'
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: Compile XeLaTeX document
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: 100-most-common-radicals.tex
+          latexmk_use_xelatex: true
+          latexmk_shell_escape: true
+      - name: Upload PDF to workflow tab
+        uses: actions/upload-artifact@v2
+        with:
+          name: 100 Most Common Radicals PDF
+          path: 100-most-common-radicals.pdf
+          
