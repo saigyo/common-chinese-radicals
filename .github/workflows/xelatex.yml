@@ -21,7 +21,14 @@ jobs:
         uses: xu-cheng/latex-action@v2
         with:
           extra_system_packages: "font-noto font-noto-cjk font-noto-cjk-extra"
-          pre_compile: "pushd /usr/share/fonts; mkdir kaiti; cd kaiti; wget https://github.com/dolbydu/font/raw/master/unicode/STKaiti.TTF; popd"
+          pre_compile: > 
+            pushd /usr/share/fonts; 
+            mkdir kaiti; 
+            cd kaiti; 
+            wget https://github.com/dolbydu/font/raw/master/unicode/STKaiti.TTF; 
+            wget https://github.com/dolbydu/font/raw/master/unicode/Kaiti.ttf;
+            wget https://github.com/dolbydu/font/raw/master/unicode/Adobe%20Kaiti%20Std.otf; 
+            popd
           root_file: 100-most-common-radicals.tex
           latexmk_use_xelatex: true
           latexmk_shell_escape: true
