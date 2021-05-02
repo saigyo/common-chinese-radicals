@@ -5,11 +5,13 @@ on:
       - main
     paths: 
       - '**.tex'
+      - '**.inc'
   pull_request:
     branches:
       - main
     paths: 
       - '**.tex'  
+      - '**.inc'
   workflow_dispatch:
 jobs:
   build_latex:
