@@ -3,6 +3,9 @@ on:
   push:
     paths: 
       - '**.tex'
+  pull_request:
+    paths: 
+      - '**.tex'  
   workflow_dispatch:
 jobs:
   build_latex:
