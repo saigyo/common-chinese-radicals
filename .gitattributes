@@ -1,0 +1,2 @@
+# Tell linguist, that the *.inc file is TeX, not PHP!
+*.inc linguist-language=TeX
