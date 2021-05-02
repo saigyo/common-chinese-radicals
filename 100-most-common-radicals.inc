@@ -97,4 +97,4 @@
 \clnk{卩}&\clnk{卩}&&seal&\lnk{jie2}{(jie2)}&\clnk{卷}\clnk{印}\clnk{却}\clnk{即}\clnk{危}&&单耳刀\nl
 \clnk{罒}&\clnk{罒}&\clnk{网}&net&\lnk{wang3}{wang3}&\clnk{罗}\clnk{罚}\clnk{罢}\clnk{罪}\clnk{罩}&Note that the horizontal version can also mean {\em net}.&四字头（罒）\nl
 \clnk{士}&\clnk{士}&&scholar&\lnk{shi4}{shi4}&\clnk{吉}\clnk{壶}\clnk{志}\clnk{声}\clnk{壮}&Note similarity to \clnk{土}, which means {\em earth}.&士字旁\nl
-\clnk{勹}&\clnk{勹}&&embrace, wrap&\lnk{bao1}{(bao1)}&\clnk{包}\clnk{勿}\clnk{勾}\clnk{勺}\clnk{勻}&&包字头\nl
+\clnk{勹}&\clnk{勹}&&embrace, wrap&\lnk{bao1}{(bao1)}&\clnk{包}\clnk{勿}\clnk{勾}\clnk{勺}\clnk{勻}&&包字头
