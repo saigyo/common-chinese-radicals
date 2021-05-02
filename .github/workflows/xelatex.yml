@@ -1,9 +1,13 @@
 name: Build PDF document
 on:
   push:
+    branches:
+      - main
     paths: 
       - '**.tex'
   pull_request:
+    branches:
+      - main
     paths: 
       - '**.tex'  
   workflow_dispatch:
