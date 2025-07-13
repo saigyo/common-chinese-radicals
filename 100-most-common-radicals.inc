@@ -42,7 +42,7 @@
 \clnk{寸}&\clnk{寸}&&thumb, inch&cùn&\clnk{寺}\clnk{尊}\clnk{对}\clnk{射}\clnk{付}&&寸字旁\nl
 \clnk{山}&\clnk{山}&&mountain&shān&\clnk{岩}\clnk{岛}\clnk{岁}\clnk{崗}\clnk{岔}&&山字旁（头）\nl
 \clnk{攵}&\clnk{攵}&\clnk{攴}&knock, tap&(pū)&\clnk{收}\clnk{改}\clnk{攻}\clnk{做}\clnk{政}&Note similarity to \clnk{夊}, which means {\em to walk (slowly)}.&反文旁（攵），旧反文旁（攴）\nl
-\clnk{彳}&\clnk{彳}&&(small) step&(chí)&\clnk{彼}\clnk{很}\clnk{律}\clnk{微}\clnk{德}&Note similarity to \clnk{亻}, which means {\em human, person}.&双人旁\nl
+\clnk{彳}&\clnk{彳}&&(small) step&(chì)&\clnk{彼}\clnk{很}\clnk{律}\clnk{微}\clnk{德}&Note similarity to \clnk{亻}, which means {\em human, person}.&双人旁\nl
 \clnk{十}&\clnk{十}&&ten&shí&\clnk{什}\clnk{计}\clnk{古}\clnk{叶}\clnk{早}&&十字旁（头）\nl
 \clnk{工}&\clnk{工}&&work&gōng&\clnk{左}\clnk{江}\clnk{红}\clnk{巧}\clnk{功}&&工字旁\nl
 \clnk{方}&\clnk{方}&&square, raft&fāng&\clnk{放}\clnk{旅}\clnk{族}\clnk{仿}\clnk{房}&Note similarity to \clnk{万}, which means {\em ten thousand}.&方字旁\nl
@@ -89,7 +89,7 @@
 \clnk{厶}&\clnk{厶}&&private&sī&\clnk{公}\clnk{勾}\clnk{去}\clnk{私}\clnk{云}&&私字旁\nl
 \clnk{户}&\clnk{户}&\clnk{戶}&door, house&hù&\clnk{所}\clnk{房}\clnk{炉}\clnk{护}\clnk{启}&Note similarity to \clnk{尸}, which means {\em corpse}.&户字旁\nl
 \clnk{羽}&\clnk{羽}&&feather&yǔ&\clnk{习}\clnk{翻}\clnk{翅}\clnk{塌}\clnk{扇}&&羽字旁\nl
-\clnk{舟}&\clnk{舟}&&boat&chuán&\clnk{般}\clnk{船}\clnk{航}\clnk{盘}\clnk{艇}&&舟字旁\nl
+\clnk{舟}&\clnk{舟}&&boat&zhōu&\clnk{般}\clnk{船}\clnk{航}\clnk{盘}\clnk{艇}&&舟字旁\nl
 \clnk{里}&\clnk{里}&&village, mile&lǐ&\clnk{野}\clnk{重}\clnk{量}\clnk{理}\clnk{埋}&&里字旁\nl
 \clnk{匕}&\clnk{匕}&&spoon&(bǐ)&\clnk{匙}\clnk{比}\clnk{北}\clnk{呢}\clnk{旨}&&匕字旁\nl
 \clnk{夂}&\clnk{夂}&&go (slowly)&(suī)&\clnk{各}\clnk{條}\clnk{复}\clnk{备}\clnk{夏}&Note similarity to \clnk{攵}, which means {\em to knock, to rap}.&折文旁\nl

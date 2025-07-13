@@ -42,7 +42,7 @@
 寸	寸		thumb, inch	cùn	寺尊对射付		寸字旁
 山	山		mountain	shān	岩岛岁崗岔		山字旁（头）
 攵	攵	攴	knock, tap	(pū)	收改攻做政	Note similarity to [夊], which means {to walk (slowly)}.	反文旁（攵），旧反文旁（攴）
-彳	彳		(small) step	(chí)	彼很律微德	Note similarity to [亻], which means {human, person}.	双人旁
+彳	彳		(small) step	(chì)	彼很律微德	Note similarity to [亻], which means {human, person}.	双人旁
 十	十		ten	shí	什计古叶早		十字旁（头）
 工	工		work	gōng	左江红巧功		工字旁
 方	方		square, raft	fāng	放旅族仿房	Note similarity to [万], which means {ten thousand}.	方字旁
@@ -89,7 +89,7 @@
 厶	厶		private	sī	公勾去私云		私字旁
 户	户	戶	door, house	hù	所房炉护启	Note similarity to [尸], which means {corpse}.	户字旁
 羽	羽		feather	yǔ	习翻翅塌扇		羽字旁
-舟	舟		boat	chuán	般船航盘艇		舟字旁
+舟	舟		boat	zhōu	般船航盘艇		舟字旁
 里	里		village, mile	lǐ	野重量理埋		里字旁
 匕	匕		spoon	(bǐ)	匙比北呢旨		匕字旁
 夂	夂		go (slowly)	(suī)	各條复备夏	Note similarity to [攵], which means {to knock, to rap}.	折文旁
