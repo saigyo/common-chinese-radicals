@@ -22,7 +22,7 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v7
       - name: Compile XeLaTeX document
-        uses: xu-cheng/latex-action@v2
+        uses: xu-cheng/latex-action@v4
         with:
           extra_system_packages: "font-noto font-noto-cjk font-noto-cjk-extra"
           pre_compile: >
