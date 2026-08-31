@@ -1,4 +1,4 @@
-#!/opt/local/bin/gawk --lint -f 
+#!/usr/bin/env gawk --lint -f
 BEGIN {FS="\t"; OFS="&"}
 function clink(c) {
   return "\\clnk{" c "}"
@@ -27,5 +27,5 @@ function improve(s) {
   return s
 }
    {
-      print clinkeach($1), clinkeach($2), clinkeach($3), $4, link($5), clinkeach($6), improve($7), $8 "\\nl" 
+      print clinkeach($1), clinkeach($2), clinkeach($3), $4, $5, clinkeach($6), improve($7), $8 "\\nl"
    }
