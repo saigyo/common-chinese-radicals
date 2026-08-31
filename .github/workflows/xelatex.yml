@@ -3,15 +3,17 @@ on:
   push:
     branches:
       - main
-    paths: 
+    paths:
       - '**.tex'
       - '**.inc'
+      - '.github/workflows/xelatex.yml'
   pull_request:
     branches:
       - main
-    paths: 
-      - '**.tex'  
+    paths:
+      - '**.tex'
       - '**.inc'
+      - '.github/workflows/xelatex.yml'
   workflow_dispatch:
 jobs:
   build_latex:
